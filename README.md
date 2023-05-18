@@ -1,5 +1,3 @@
-## Hey je suis sur la branche dev
-
 ## Remember
 `psql setup on school mac`  
 
